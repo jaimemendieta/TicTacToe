@@ -1,4 +1,5 @@
 # TicTacToe Game Project
+![TicTacToe Game](/tictactoe/public/TicTacToe.gif)
 
 ## Description
 
