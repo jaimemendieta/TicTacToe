@@ -50,4 +50,4 @@ The project is organized as follows:
 
 ##Contact Information
 
-If you have any questions or need further assistance, you can contact the project team at [jaimemendieta7@outlook.com](mailto:jaimemendieta7@outlook.com).
+If you have any questions or need further assistance, you can contact me at [jaimemendieta7@outlook.com](mailto:jaimemendieta7@outlook.com).
